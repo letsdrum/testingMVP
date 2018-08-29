@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testMVP", "testMVP\testMVP.csproj", "{CBB6EA70-F856-4DC5-B97D-859366007135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor.BL", "TextEditor.BL\TextEditor.BL.csproj", "{62BE8FC2-10F2-436A-947C-3071F148C0A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBB6EA70-F856-4DC5-B97D-859366007135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBB6EA70-F856-4DC5-B97D-859366007135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBB6EA70-F856-4DC5-B97D-859366007135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBB6EA70-F856-4DC5-B97D-859366007135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BE8FC2-10F2-436A-947C-3071F148C0A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BE8FC2-10F2-436A-947C-3071F148C0A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BE8FC2-10F2-436A-947C-3071F148C0A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BE8FC2-10F2-436A-947C-3071F148C0A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

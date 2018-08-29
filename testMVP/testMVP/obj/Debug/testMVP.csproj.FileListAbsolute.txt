@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\bin\Debug\testMVP.exe.config
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\bin\Debug\testMVP.exe
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\bin\Debug\testMVP.pdb
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\bin\Debug\TextEditor.BL.dll
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\bin\Debug\TextEditor.BL.pdb
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\obj\Debug\testMVP.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\obj\Debug\testMVP.MainForm.resources
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\obj\Debug\testMVP.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\obj\Debug\testMVP.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\obj\Debug\testMVP.exe
+c:\users\user\documents\visual studio 2015\Projects\testMVP\testMVP\obj\Debug\testMVP.pdb
